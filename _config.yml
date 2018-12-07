@@ -1,8 +1,8 @@
 # User Settings | Edit there as per required
 
-title: accent
-url: "http://ankitsultana.com"
-baseurl: "/accent"
+title: astrophysical news
+url: "https://r221.github.io/accent"
+baseurl: "/"
 
 # This will show up at the top of index page
 site_heading: >
