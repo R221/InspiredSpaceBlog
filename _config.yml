@@ -46,7 +46,7 @@ twitter_username: robertspacej
 github_username: R221
 facebook_id: yourusername
 
-favicon: true
+favicon: false
 favicon_location: "images/favicon.ico"
 
 profile_picture: images/circle.png
