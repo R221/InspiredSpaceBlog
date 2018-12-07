@@ -2,7 +2,7 @@
 
 title: astrophysical news
 url: "https://r221.github.io/accent"
-baseurl: "/"
+baseurl: "/accent"
 
 # This will show up at the top of index page
 site_heading: >
