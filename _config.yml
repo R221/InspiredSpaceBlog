@@ -1,6 +1,6 @@
 # User Settings | Edit there as per required
 
-title: astrophysics blog
+title: Astrophysics Blog
 url: "https://r221.github.io/accent"
 baseurl: "/accent"
 
@@ -38,7 +38,7 @@ comments: true
 # Note that about_footer should be true if you want
 # to see author information at the bottom of each post
 about_stub: >
-    astrophysics for all.
+    Astrophysical blog dedicated to summarizing important advances in the space sector.
 
 about_footer: true
 
