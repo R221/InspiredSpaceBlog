@@ -50,7 +50,15 @@ Having this data enables us to determine the behavior of the alpha particles (ra
   
 We'll save the more in-depth explanation of the Solar Probe Cup, as well as the Parker Space Probe's measures against heat, photoimaging technology and others in the follow-up article.  
   
-See you next time!
+See you next time!  
+
+#### Sources:
+https://www.nasa.gov/content/goddard/parker-solar-probe-instruments  
+http://www.aeronomie.be/en/topics/solarsystem/solw1-why.pdf  
+https://www.nasa.gov/content/goddard/eugene-newman-parker  
+https://solarscience.msfc.nasa.gov/SolarWind.shtml  
+https://solarscience.msfc.nasa.gov/corona.shtml  
+
 
 [//]: # Now, you may be wondering: How does is all this sensitive equipment protected?
   
