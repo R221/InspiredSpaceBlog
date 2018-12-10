@@ -1,12 +1,12 @@
 # User Settings | Edit there as per required
 
-title: Astrophysics Blog
-url: "https://r221.github.io/accent"
+title: InspiredSpaceBlog
+url: "http://www.inspiredspace.blog/"
 baseurl: "/accent"
 
 # This will show up at the top of index page
 site_heading: >
-    astro<span class = "faded">physics blog</span>
+    inspired<span class = "faded">space.blog</span>
 
 email: astrophysicsnews@gmail.com
 author: Robert James
