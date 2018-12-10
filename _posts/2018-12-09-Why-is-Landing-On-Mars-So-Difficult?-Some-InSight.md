@@ -1,8 +1,5 @@
 # Vaulting a bear over 300 million miles and landing as an Olympic gymnast is difficult
 
-My face when people say spaceflight is easy:
-![surprisepikachu](https://www.dailydot.com/wp-content/uploads/2018/10/pikachu_surprised_meme-e1540570767482.png)
-
 Since 1975, NASA has landed eight spacecrafts on Mars. The [InSight Lander](https://mars.nasa.gov/insight/), landing on November 26, 2018, is the most recent in the #JourneytoMars. Its success is a crucial win for the [Mars Exploration Program](https://mars.nasa.gov/).  
   
 How did NASA get the InSight Lander to Mars? They had to overcome two main obstacles: the distance and the landing.  
@@ -38,6 +35,8 @@ Upon entry, a large parachute was deployed. Then 12 retro rockets fired for a ge
 InSight is no ordinary mission. Honestly, none of them really are. While the process of sending people and objects into space is largely not new, it is far from a perfectly formulated routine. But every time we do it, we get better at it and, crucially, we learn so much more about what we are researching. It is crucial that we keep exploring the universe around us-- to unveil the universe's secrets, but also to potentially find a new home for the human race.
   
 In fact, NASA already has planned the next Mars mission, [Mars 2020](https://mars.nasa.gov/mars2020/mission/overview/)!  
+  
+![surprisepikachu](https://www.dailydot.com/wp-content/uploads/2018/10/pikachu_surprised_meme-e1540570767482.png) 
 
 **Other cool articles of mine about space:**  
 [Astrobee: Roomba For Astronauts](https://r221.github.io/accent/Astrobee-Roomba-for-Astronauts.html)  
