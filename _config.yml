@@ -1,8 +1,8 @@
 # User Settings | Edit there as per required
 
 title: Inspired Space
-url: "http://inspiredspaceblog.com/accent"
-baseurl: "/accent"
+url: "http://inspiredspaceblog.com/"
+baseurl: "/InspiredSpaceBlog"
 
 # This will show up at the top of index page
 site_heading: >
