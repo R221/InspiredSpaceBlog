@@ -1,5 +1,8 @@
 # Vaulting a bear over 300 million miles and landing as an Olympic gymnast is difficult
 
+My face when people say spaceflight is easy:
+![surprisepikachu](https://www.dailydot.com/wp-content/uploads/2018/10/pikachu_surprised_meme-e1540570767482.png)
+
 Since 1975, NASA has landed eight spacecrafts on Mars. The [InSight Lander](https://mars.nasa.gov/insight/), landing on November 26, 2018, is the most recent in the #JourneytoMars. Its success is a crucial win for the [Mars Exploration Program](https://mars.nasa.gov/).  
   
 How did NASA get the InSight Lander to Mars? They had to overcome two main obstacles: the distance and the landing.  
