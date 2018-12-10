@@ -1,4 +1,4 @@
-# Vaults a bear over 300 million miles and landing as an Olympic gymnast is difficult
+# Vaulting a bear over 300 million miles and landing as an Olympic gymnast is difficult
 
 Since 1975, NASA has landed eight spacecrafts on Mars. The [InSight Lander](https://mars.nasa.gov/insight/), landing on November 26, 2018, is the most recent in the #JourneytoMars. Its success is a crucial win for the [Mars Exploration Program](https://mars.nasa.gov/).  
   
