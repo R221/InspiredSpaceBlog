@@ -39,8 +39,8 @@ In fact, NASA already has planned the next Mars mission, [Mars 2020](https://mar
 ![surprisepikachu](https://www.dailydot.com/wp-content/uploads/2018/10/pikachu_surprised_meme-e1540570767482.png) 
 
 **Other cool articles of mine about space:**  
-[Astrobee: Roomba For Astronauts](https://r221.github.io/accent/Astrobee-Roomba-for-Astronauts.html)  
-[The Parker Solar Probe](https://r221.github.io/accent/Parker-Solar-Probe.html)  
+[Astrobee: Roomba For Astronauts](https://inspiredspace.blog/Astrobee-Roomba-for-Astronauts.html)  
+[The Parker Solar Probe](https://inspiredspace.blog/Parker-Solar-Probe.html)  
   
 **[Mars in a Minute series](https://www.jpl.nasa.gov/video/?search=mars+in+a+minute&video_category=&video_destinations=#submit) by JPL**  
   
