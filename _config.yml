@@ -1,8 +1,8 @@
 # User Settings | Edit there as per required
 
 title: Inspired Space
-url: "https://inspiredspaceblog.com/"
-baseurl: "/InspiredSpaceBlog"
+url: "https://inspiredspace.blog/"
+baseurl: "/"
 
 # This will show up at the top of index page
 site_heading: >
