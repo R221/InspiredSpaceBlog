@@ -2,7 +2,7 @@
 
 title: Inspired Space
 url: "https://inspiredspace.blog/"
-baseurl: "/"
+baseurl: "/InspiredSpaceBlog"
 
 # This will show up at the top of index page
 site_heading: >
