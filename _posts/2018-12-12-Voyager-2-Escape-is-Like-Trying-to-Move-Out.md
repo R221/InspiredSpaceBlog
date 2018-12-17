@@ -4,7 +4,7 @@
 
 *Credit: NASA/JPL-Caltech/GSFC*
 
-I thought that graduating college would land me an awesome job in a nice place where I could start my own life. Then life hit me like a ton of dark matter and I lived with my parents for a bit. Voyager 2, like a true college grad struggling to get on its feet, has made it quite far as the second manmande object to exit the Sun's protective bubble known as the heliosphere-- but we still can make contact and see where it's headed, just like our parents.  
+I thought graduating college would mean an high-paying job in a nice place where I could start my own life. Then reality hit me like a ton of dark matter and I lived with my parents for a bit. Voyager 2, like a true college grad struggling to get on his feet, has made it quite far as the second manmande object to exit the Sun's protective bubble known as the heliosphere-- but we still can make contact and see where it's headed, just like our parents.  
   
 The onboard Plasma Science Experiment (PLS) no longer detects [solar wind](https://inspiredspace.blog/Parker-Solar-Probe.html#some-background-what-the-heck-is-solar-wind-and-why-is-it-so-important), which is very telling of its position.
 
