@@ -13,7 +13,7 @@ The onboard Plasma Science Experiment (PLS) no longer detects [solar wind](https
 
 But no solar wind does not equal no solar system. Mild math incoming. 
 
-The Oort Cloud, a spherical shell around our Sun and planets, is the next step. Just getting there will prove to be a challenge; at 1,000 AU (93 billion miles) away from Earth, it will take Voyager another 360 years to reach the *beginning* of it. Then, we have to travel approximately 150,000 (14 trillion miles) to get through it. That will take over 60,000 years. So even though it takes 16 hours to retrieve information traveling at light speed from Voyager 2, it basically lives in the next state over.  
+The Oort Cloud, a spherical shell around our Sun and planets, is the next step. Just getting there will prove to be a challenge; at 1,000 AU (93 billion miles) away from Earth, it will take Voyager another 360 years to reach the *beginning* of it. Then, we have to travel approximately 150,000 (14 trillion miles) to get through it. That will take over 60,000 years. So even though it takes 16 hours to retrieve information traveling at light speed from Voyager 2, it basically lives in the next state over. Just like me. **Sigh* *  
   
 ![Oort Cloud](https://solarsystem.nasa.gov/system/resources/detail_files/492_OortCloud_pia17046red-full.jpg)
 *Credit: NASA/JPL-Caltech*
