@@ -12,7 +12,7 @@ In this article we consider a broad overview of the beginning of the program and
   
 ## The Beginning - Two Vital Missions
 
-Neil Armstrong and Buzz Aldrin landed on the Moon on July 20, 1969 at the penultimate moment of Apollo 11; notably, less than seven years after Kennedy's speech. 
+Neil Armstrong and Buzz Aldrin landed on the Moon on July 20, 1969 at the penultimate moment of Apollo 11; notably, less than seven years after Kennedy's speech. This was a massive achievement! It was also the culmination of six years of work, it did not happen overnight.
 
 To be sure, we had no idea what we were doing. This was pinnacle of all challenges to date: rocket science had to be *invented*. And there was competition. In 1957, the Soviet Union launched satellite Sputnik. To make matters worse, 1961 saw the world's first human to orbit the Earth, [Yuri Gagarin](https://starchild.gsfc.nasa.gov/docs/StarChild/whos_who_level2/gagarin.html) (whose questionable nickname is "Columbus of the Cosmos").  
   
