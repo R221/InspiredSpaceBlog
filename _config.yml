@@ -4,6 +4,8 @@ title: Inspired Space
 url: "https://inspiredspace.blog/"
 baseurl: "/"
 
+#InspiredSpaceBlog
+
 # This will show up at the top of index page
 site_heading: >
     inspired<span class = "faded">space.blog</span>

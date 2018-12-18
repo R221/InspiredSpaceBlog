@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      "Astrobee: The Space Roomba"
+subtitle:   "NASA made a cubic Roomba that does more than just clean"
+date:       2018-12-01 10:00
+author:     "Robert James"
+header-img: "https://www.nasa.gov/sites/default/files/thumbnails/image/astrobee_lebeled.png"
+category:   space
+tags:       [machine learning, programming, python, neural networks, rnn, lstm]
+---
+
+
+
 # NASA made a cubic Roomba that does more than just clean
   
 Imagine if your Roomba could do more than just clean the kitchen floor-- what if it could also find and put away all your spoons; determine if the dog's barking is too loud (it is) and also set the table's forks using... *magnetism*?  
