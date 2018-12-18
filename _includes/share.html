@@ -1,10 +1,4 @@
 <ul class="rrssb-buttons clearfix">
-        {% if page.header-img %}
-        <meta property="og:image" content="{{ site.url }}/{{ page.header-img }}" />
-    {% endif %}
-    
-    <meta property="og:description" content="{{ page.subtitle }}" />
-    
     <li class="rrssb-email">
     <!-- Replace subject with your message using URL Endocding: http://meyerweb.com/eric/tools/dencoder/ -->
         <a href="mailto:?subject={{ page.title }}&amp;body=Check out: {{ site.url }}{{ site.baseurl }}{{ page.url }}">
