@@ -47,7 +47,7 @@ github_username: R221
 facebook_id: yourusername
 
 favicon: true
-favicon_location: "images/favicon.ico"
+favicon_location: "images/favicon_1.png"
 
 profile_picture: images/circle.png
 paginate: 5
@@ -55,7 +55,7 @@ paginate_path: "/page/:num"
 tracking_id: UA-69243698-7 # GA Tracking ID
 
 # Social Stuff | open graph and twitter cards
-og_image: "images/accent.png" # This will show in facebook thumbnails
+og_image: "images/twitter_profile_pic.png" # This will show in facebook thumbnails
 twitter_image: "https://twitter.com/InspiredSpace_" # This will show in twitter cards
 
 ####################################
