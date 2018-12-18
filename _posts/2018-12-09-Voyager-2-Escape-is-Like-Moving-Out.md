@@ -1,3 +1,13 @@
+---
+layout:     post
+title:      "Astrobee: The Space Roomba"
+description:       "Voyager 2 is leaving!"
+date:       2018-12-01 10:00
+author:     "Robert James"
+image:      "pimages/astrobee_lebeled.png"   
+---
+
+
 # Voyager 2 may be far away from home, but it's still a ways from really being gone
 
 ![Voyager 2 in interstellar space](https://www.nasa.gov/sites/default/files/thumbnails/image/pia22835a_20181206_voyager_in_interstellar_space_annotated_1920x1080_72dpi-final.png)

@@ -2,7 +2,7 @@
 
 title: Inspired Space
 url: "https://inspiredspace.blog/"
-baseurl: "/"
+baseurl: "/InspiredSpaceBlog"
 
 #InspiredSpaceBlog
 
@@ -14,8 +14,7 @@ email: astrophysicsnews@gmail.com
 author: Robert James
 # This description will show up in google search results
 # (for index page) etc.
-description: >
-    Fresh, easy perspectives on space topics.
+description: Fresh, easy perspectives on space topics.
 
 # This will what will show against &copy; in the footer
 copyright: robertcjames
