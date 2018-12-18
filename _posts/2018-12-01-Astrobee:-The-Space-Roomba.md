@@ -4,9 +4,9 @@ title:      "Astrobee: The Space Roomba"
 subtitle:   "NASA made a cubic Roomba that does more than just clean"
 date:       2018-12-01 10:00
 author:     "Robert James"
-header-img: "pimages/astrobee_lebeled.png"
-category:   techblog
-tags:       [machine learning, programming, python, neural networks, rnn, lstm]
+image:      "pimages/astrobee_lebeled.png"
+category:   space
+tags:       
 ---
 
 
