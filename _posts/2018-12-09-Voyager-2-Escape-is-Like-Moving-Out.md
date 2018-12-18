@@ -1,10 +1,9 @@
 ---
 layout:     post
-title:      "Astrobee: The Space Roomba"
-description:       "Voyager 2 is leaving!"
+title:      "Voyager 2 Escape is Like Moving Out"
+description: "Voyager 2 is leaving!"
 date:       2018-12-01 10:00
-author:     "Robert James"
-image:      "pimages/astrobee_lebeled.png"   
+author:     "Robert James"  
 ---
 
 
