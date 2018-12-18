@@ -1,8 +1,6 @@
-# NASA made a cubic Roomba that can do more than just clean.
+# NASA made a cubic Roomba that does more than just clean.
   
 Imagine if your Roomba could do more than just clean the kitchen floor-- what if it could also find and put away all your spoons; determine if the dog's barking is too loud (it is) and also set the table's forks using... *magnetism*?  
-  
-Wait, what?  
   
 [Astrobee](https://www.nasa.gov/astrobee), the second-gen free-flying robot out of [NASA Game Changing Development Program](https://gameon.nasa.gov/) can do all of that and more (the first generation was [SPHERES](https://www.nasa.gov/spheres/home)). Astrobee is designed to make space life easier and more efficient for astronauts living on the International Space Station. NASA has just sent three of them on Expedition 58 on December 3, 2018.  
   
