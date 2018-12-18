@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Astrobee: The Space Roomba"
-subtitle:   "NASA made a cubic Roomba that does more than just clean"
+desc:       "NASA made a cubic Roomba that does more than just clean"
 date:       2018-12-01 10:00
 author:     "Robert James"
 image:      "pimages/astrobee_lebeled.png"
