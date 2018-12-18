@@ -1,15 +1,18 @@
 ---
 layout: about
-title: accent
-author: Ankit Sultana
+title: Robert James
+author: Robert James
 permalink: /about
 ---
 
-Hi! My name is yourname!
+Hi, my name is Robert!
 
-> One shalt not speak shakespearean, or brocolli McDonalds
+> “It is far better to grasp the universe as it really is than to persist in delusion, however satisfying and reassuring."  - Carl Sagan
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Space, an unfailingly fascinating topic. I love reading anything and everything that goes on in space-- the problem is, the stuff can be quite thick. Technical jargon and concepts that require some formal physics and/or math to be understood are prevalent in the field. That's why I started InspiredSpace.blog! After I research a topic, I want to be able to spread what I have learned to others so you can learn, too! My friend, Karim, has the formal science training. I have the creative side and the desire to learn more. 
 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I'm always open for suggestions on new topics, articles, and other ways to improve the site. In addition to leaving a comment on my articles, please shoot me a message at contact@inspiredspace.blog for anything and everything you have to say! I hope my work is as fun to read as it is to write; it sometimes feels like I am perpetually preparing for a standup routine with some of this stuff.  
+  
+Sincerely,  
+Robert James

@@ -2,7 +2,7 @@
 
 title: Inspired Space
 url: "https://inspiredspace.blog/"
-baseurl: "/"
+baseurl: "/InspiredSpaceBlog"
 
 # This will show up at the top of index page
 site_heading: >
@@ -38,7 +38,7 @@ comments: true
 # Note that about_footer should be true if you want
 # to see author information at the bottom of each post
 about_stub: >
-    Astrophysical blog dedicated to summarizing advances in the space sector.
+    Writing easy articles on space that even I can understand.
 
 about_footer: true
 
@@ -49,7 +49,7 @@ facebook_id: yourusername
 favicon: true
 favicon_location: "images/favicon_1.png"
 
-profile_picture: images/circle.png
+profile_picture: images/profilepic.png
 paginate: 5
 paginate_path: "/page/:num"
 tracking_id: UA-69243698-7 # GA Tracking ID
