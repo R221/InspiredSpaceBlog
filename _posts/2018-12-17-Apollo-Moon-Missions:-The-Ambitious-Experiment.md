@@ -1,4 +1,4 @@
-# President Kennedy: "Let's land on the moon!" NASA: "Hold my beer."
+# President Kennedy: "Let's land on the moon!" NASA: "Hold my beer"
 
 ![Apollo 11 Moon landing](https://i.imgur.com/tyE5tUR.jpg)
 
@@ -12,7 +12,7 @@ In this article we consider a broad overview of the beginning of the program and
   
 ## The Beginning - Two Vital Missions
 
-Neil Armstrong and Buzz Aldrin landed on the Moon on July 20, 1969 at the penultimate moment of Apollo 11; notably, less than seven years after Kennedy's speech. This was a massive achievement! It was also the culmination of six years of work, it did not happen overnight.
+Neil Armstrong and Buzz Aldrin landed on the Moon on July 20, 1969 at the penultimate moment of Apollo 11; notably less than seven years after Kennedy's speech. This was a massive achievement! It was also the culmination of six years of work, it did not happen overnight.
 
 To be sure, we had no idea what we were doing. This was pinnacle of all challenges to date: rocket science had to be *invented*. And there was competition. In 1957, the Soviet Union launched satellite Sputnik. To make matters worse, 1961 saw the world's first human to orbit the Earth, [Yuri Gagarin](https://starchild.gsfc.nasa.gov/docs/StarChild/whos_who_level2/gagarin.html) (whose questionable nickname is "Columbus of the Cosmos").  
   
@@ -69,7 +69,7 @@ Holistically, the following missions provided a win not just for the US, but for
 **Related reads you may find interesting:**  
   
 [The Parker Solar Probe & Solar Wind](https://inspiredspace.blog/The-Parker-Solar-Probe.html)  
-[Voyager 2 (Almost) Escaping the Solar System](https://inspiredspace.blog/Voyager-2-Escape-is-Like-Moving-Out.html)  
+[Voyager 2 (Almost) Escaping the Solar System](https://inspiredspace.blog/Voyager-2-Escape-is-Like-Moving-Out.html)
 [Why Is Landing On Mars So Difficult? Some Insight](https://inspiredspace.blog/Why-is-Landing-On-Mars-So-Difficult-Some-InSight.html)  
 [Astrobee: The Space Roomba](https://inspiredspace.blog/Astrobee-Roomba-for-Astronauts.html)
 

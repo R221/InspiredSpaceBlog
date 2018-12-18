@@ -5,7 +5,7 @@ Since 1975, NASA has landed eight spacecrafts on Mars. The [InSight Lander](http
 How did NASA get the InSight Lander to Mars? They had to overcome two main obstacles: the distance and the landing.  
   
 ![How to get to Mars from Earth](https://solarsystem.nasa.gov/bosf/images/04-01v2_Earth-Mars-Trans-Orb_800x420.jpg)  
-*Credit: NASA*
+**Credit: NASA**
   
 ## 1. Shipping a kodiak bear 300 million miles
 
@@ -17,14 +17,14 @@ So, want to ship a bear from D.C. to San Francisco 107,000 times?
   
 *UPS would only charge you [$20K per trip, totalling $2 billion.](https://i.imgur.com/YD8LgtZ.png)*
 
-## 2. Land at a precise location on a difficult terrain. Perfectly.
+## 2. Land at a precise location on a difficult terrain- Perfectly
   
 The spacecraft must now slow down and stick a perfect landing, like an olympic gymnast. This is the most difficult part of landing on Mars because it is the most sensitive. One mistake can ruin the entire mission. This entails slowing down from 13,000 miles per hour all the way to zero. Engineers have lovingly dubbed this stage the:  
 
 ## "7 Minutes of Terror": InSight's Nail-Biting Landing Process
 
 ![InSight Probe landing](https://mars.nasa.gov/images/PIA14839-full2.jpg)  
-*Credit: NASA*  
+**Credit: NASA**  
 
 There are only seven minutes between entering Mars's atmosphere and landing (due to its thin atmosphere). InSight's landing process started *two months* before then. According to NASA, this included:  
 
@@ -36,9 +36,9 @@ InSight is no ordinary mission. Honestly, none of them really are. While the pro
   
 In fact, NASA already has planned the next Mars mission, [Mars 2020](https://mars.nasa.gov/mars2020/mission/overview/)!  
   
-![surprisepikachu](https://www.dailydot.com/wp-content/uploads/2018/10/pikachu_surprised_meme-e1540570767482.png) 
+![surprised pikachu](https://www.dailydot.com/wp-content/uploads/2018/10/pikachu_surprised_meme-e1540570767482.png) 
 
-**Other cool articles of mine about space:**  
+**Related reads you may find interesting:**  
 [Astrobee: Roomba For Astronauts](https://inspiredspace.blog/Astrobee-Roomba-for-Astronauts.html)  
 [The Parker Solar Probe](https://inspiredspace.blog/Parker-Solar-Probe.html)  
   

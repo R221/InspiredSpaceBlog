@@ -1,10 +1,12 @@
 ## On a mission to better understand energy
-*This is the introductory part one in a multi part series.*  
+*This is part one in a multi-part series.*  
 *For more in-depth information, stay tuned for follow-up articles.*  
   
-![Dr. Eugene Parker](https://static01.nyt.com/images/2018/08/11/science/11PARKER1/11PARKER1-jumbo.jpg?quality=90&auto=webp)  
+![Dr. Eugene Parker](https://static01.nyt.com/images/2018/08/11/science/11PARKER1/11PARKER1-jumbo.jpg?quality=90&auto=webp)
+
+**Credit: NASA/JPL-Caltech**
   
-[Dr. Eugene Parker](https://www.nasa.gov/content/goddard/eugene-newman-parker) is an accomplished theoretical physict whose name you may not recognize. Heard of *solar wind*? Well, he's the guy who coined it. And now his name christens the fastest ever manmade spacecraft: The **Parker Solar Probe (PSP)**.   
+[Dr. Eugene Parker](https://www.nasa.gov/content/goddard/eugene-newman-parker) is an accomplished theoretical physict whose name you may not recognize. Heard of *solar wind*? Well, he's the guy who discovered it. And now his name christens the fastest ever manmade spacecraft: The **Parker Solar Probe (PSP)**.   
 
 And it's heading right towards the Sun.  
 
@@ -40,9 +42,11 @@ The PSP measures quite a few variables using a group of sensors known as *SWEAP*
 - **A**lpha (particles)  
 - **P**rotons  
   
-Most of these sensors are located on the backside of the probe, and therefore collect information from all directions. We will talk about all of them eventually, but first: the **Solar Probe Cup (SPC)**. It's located right on the edge of the heat shield and so it gets the most "important" results.
+Most of these sensors are located on the backside of the probe, and therefore collect information from all directions. We will talk about all of them eventually, but first: the **Solar Probe Cup (SPC)**. It's located right on the edge of the heat shield and so it gets the most interesting results.
   
 ![Solar Probe Cup](https://www.cfa.harvard.edu/sweap/images/SPC_Glamour.jpg)  
+
+**Credit: NASA/JPL-Caltech**
   
 The SPC has two grids. The outer grid allows particles through to the inner grid, which allows particles with certain speeds. Successful particles deposit a charge against the metal behind the inner grid and are registered.  
   
@@ -50,7 +54,12 @@ Having this data enables us to determine the behavior of the alpha particles (ra
   
 We'll save the more in-depth explanation of the Solar Probe Cup, as well as the Parker Space Probe's measures against heat, photoimaging technology and others in the follow-up article.  
   
-See you next time!  
+Until next time!  
+  
+**Related reads for your, er, reading pleasure:**
+[Voyager 2 (Almost) Escaping the Solar System](https://inspiredspace.blog/Voyager-2-Escape-is-Like-Moving-Out.html)
+[Why Is Landing On Mars So Difficult? Some Insight](https://inspiredspace.blog/Why-is-Landing-On-Mars-So-Difficult-Some-InSight.html)  
+[Astrobee: The Space Roomba](https://inspiredspace.blog/Astrobee-Roomba-for-Astronauts.html)
 
 #### Sources:
 https://www.nasa.gov/content/goddard/parker-solar-probe-instruments  
