@@ -1,7 +1,7 @@
 ---
 layout:         post
 og:title:      "The Fastest Spacecraft Ever Built: The Parker Solar Probe "
-description:   "It's heading right for the Sun."
+description:   "The Parker Solar Probe is heading right for the Sun."
 author:     "Robert James"
 date:       2018-12-05 10:00
 og:image:   "https://static01.nyt.com/images/2018/08/11/science/11PARKER1/11PARKER1-jumbo.jpg?quality=90&auto=webp"
