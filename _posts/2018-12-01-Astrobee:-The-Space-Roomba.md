@@ -1,12 +1,10 @@
 ---
-layout:     post
-title:      "Astrobee: The Space Roomba"
-desc:       "NASA made a cubic Roomba that does more than just clean"
-date:       2018-12-01 10:00
+layout:         post
+og:title:      "Astrobee: The Space Roomba"
+description:   "Can free-flying robots be effective in space? NASA thinks so."
 author:     "Robert James"
-image:      "pimages/astrobee_lebeled.png"
-category:   space
-tags:       
+og:image:   "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/03/01/105039049-Astrobee.600x337.jpg?v=1519945384"
+og:type:    "article"
 ---
 
 

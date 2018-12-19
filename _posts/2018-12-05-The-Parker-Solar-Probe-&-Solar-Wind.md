@@ -1,3 +1,12 @@
+---
+layout:         post
+og:title:      "The Fastest Spacecraft Ever Built Detects Solar Wind"
+description:   "And it's heading right for the Sun."
+author:     "Robert James"
+og:image:   "https://static01.nyt.com/images/2018/08/11/science/11PARKER1/11PARKER1-jumbo.jpg?quality=90&auto=webp"
+og:type:    "article"
+---
+
 ## On a mission to better understand energy
 *This is part one in a multi-part series.*  
 *For more in-depth information, stay tuned for follow-up articles.*  
