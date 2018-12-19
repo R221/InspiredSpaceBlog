@@ -1,6 +1,6 @@
 ---
 layout:         post
-og:title:      "NASA Is Sending Roombas Into Outer Space"
+og:title:      "NASA Is Sending Flying Roombas Into Outer Space"
 description:   "Can free-flying robots be effective in space? NASA thinks so."
 date:       2018-12-01 10:00
 author:     "Robert James"
@@ -10,7 +10,7 @@ og:type:    "article"
 
 
 
-# NASA made a cubic Roomba that does more than just clean
+# NASA has made a flying Roomba that can do more than just clean
   
 Imagine if your Roomba could do more than just clean the kitchen floor-- what if it could also find and put away all your spoons; determine if the dog's barking is too loud (it is) and also set the table's forks using... *magnetism*?  
   
