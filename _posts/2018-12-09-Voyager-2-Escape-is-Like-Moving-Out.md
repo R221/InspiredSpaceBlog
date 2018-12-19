@@ -1,11 +1,10 @@
 ---
-layout:     post
-og:title:      "Voyager 2's Escape is Like Try Moving Out"
-description: "Where does Voyager 2 go next after leaving our solar system?"
+layout:         post
+og:title:      "Voyager 2's Heliosphere Escape is Like Try Moving Out"
+description:   "Where does Voyager 2 go next after leaving our solar system?"
 date:       2018-12-09 10:00
 author:     "Robert James"
-og:image:   "images/voyager2_interstellar_blue_poster.jpg"
-og:image:url: "images/voyager2_interstellar_blue_poster.jpg"
+og:image:   "https://www.nasa.gov/sites/default/files/thumbnails/image/pia22835a_20181206_voyager_in_interstellar_space_annotated_1920x1080_72dpi-final.png"
 og:type:    "article"
 ---
 
