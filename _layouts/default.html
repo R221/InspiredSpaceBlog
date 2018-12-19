@@ -33,7 +33,7 @@
     {% endif %}
     <!-- Facebook Open Graph -->
     <meta name="og:description" content="{{ desc }}">
-    <meta name="og:title" content="{{ page.title }}">
+    <meta name="og:title" content="{{ page.title }}"> # changed from site.title to page.title as OG was producing site title instead of article title
     <meta name="og:url" content="{{ url }}">
     <meta name="og:type" content="article">
     {% if site.og_image %}
@@ -44,7 +44,7 @@
     {% endif %}
     <!-- Twitter -->
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="{{ site.title }}">
+    <meta name="twitter:title" content="{{ page.title }}">
     <meta name="twitter:description" content="{{ desc }}">
     <meta name="twitter:url" content="{{ url }}">
     {% if site.twitter_image %}
