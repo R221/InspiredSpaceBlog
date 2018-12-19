@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Voyager 2 Escape is Like Moving Out"
-description: "Voyager 2 is leaving!"
+og:title:      "Voyager 2's Escape is Like Moving Out"
+description: "Where does Voyager 2 go next after leaving our solar system?"
 date:       2018-12-01 10:00
 author:     "Robert James"
 og:image:   "/pimages/voyager2.png"
