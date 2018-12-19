@@ -4,7 +4,7 @@ og:title:      "NASA Is Sending Flying Roombas Into Outer Space"
 description:   "Can free-flying robots be effective in space? NASA thinks so."
 date:       2018-12-01 10:00
 author:     "Robert James"
-og:image:   "https://www.nasa.gov/sites/default/files/thumbnails/image/astrobee_lebeled.png"
+og:image:   "https://www.nasa.gov/sites/default/files/thumbnails/image/cgi.png"
 og:type:    "article"
 ---
 
@@ -14,7 +14,7 @@ Imagine if your Roomba could do more than just clean the kitchen floor-- what if
   
 [Astrobee](https://www.nasa.gov/astrobee), the second-gen free-flying robot out of [NASA Game Changing Development Program](https://gameon.nasa.gov/) can do all of that and more (the first generation was [SPHERES](https://www.nasa.gov/spheres/home)). Astrobee is designed to make space life easier and more efficient for astronauts living on the International Space Station. NASA has just sent three of them on Expedition 58 on December 3, 2018.  
   
-![Astrobee](https://www.nasa.gov/sites/default/files/thumbnails/image/astrobee_lebeled.png)
+![Astrobee](https://www.nasa.gov/sites/default/files/thumbnails/image/cgi.png)
 
 **Credit: NASA/JPL-Caltech**
   
