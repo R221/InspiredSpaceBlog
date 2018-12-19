@@ -5,6 +5,8 @@ description: "Where does Voyager 2 go next after leaving our solar system?"
 date:       2018-12-09 10:00
 author:     "Robert James"
 og:image:   "/images/voyager2.png"
+og:image:url: "/images/voyager2.png"
+og:type:    "article"
 ---
 
 
