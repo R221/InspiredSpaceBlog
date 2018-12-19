@@ -24,7 +24,7 @@ It can do quite a few things. Aside from having six different cameras, an impell
   
 So yeah, it's essentially a compact, *quiet* TARS from Christopher Nolan's *Interstellar*.
   
-## Experiments and Implications
+### Experiments and Implications
 
 We've all seen sci-fi movies where the poor engineer has to tell the slightly-too-intense protagonist how to operate something entirely out of his depth. Imagine how frustrating that would be as the engineer having to explain delicate processes in a precise, timely manner to someone who can "only" fly a spaceship.  
   
@@ -48,7 +48,7 @@ That may come off as melodramatic, but hope is in fact what keeps humans going. 
   
 And if I know one thing about humans, it is that we cannot stand still. We must advance, we must evolve. We must explore.  
   
-## Sources:
+#### Sources:
 https://www.nasa.gov/astrobee  
 https://www.nasa.gov/mission_pages/station/research/experiments/2154.html  
 https://gameon.nasa.gov/2018/10/30/nasa-looking-to-tiny-technology-for-big-payoffs/  

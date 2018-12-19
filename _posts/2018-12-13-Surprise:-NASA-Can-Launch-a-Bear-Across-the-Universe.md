@@ -1,4 +1,14 @@
-# Vaulting a bear over 300 million miles and landing as an Olympic gymnast is difficult
+---
+layout:         post
+og:title:      "NASA Launched a Kodiak Bear 300 Million Miles Away"
+description:   "The InSight Probe is the same size as one, a difficult task."
+date:       2018-12-13 10:00
+author:     "Robert James"
+og:image:   "https://solarsystem.nasa.gov/bosf/images/04-01v2_Earth-Mars-Trans-Orb_800x420.jpg"
+og:type:    "article"
+---
+
+## Vaulting a bear over 300 million miles and landing as an Olympic gymnast is difficult
 
 Since 1975, NASA has landed eight spacecrafts on Mars. The [InSight Lander](https://mars.nasa.gov/insight/), landing on November 26, 2018, is the most recent in the #JourneytoMars. Its success is a crucial win for the [Mars Exploration Program](https://mars.nasa.gov/).  
   
@@ -7,7 +17,7 @@ How did NASA get the InSight Lander to Mars? They had to overcome two main obsta
 ![How to get to Mars from Earth](https://solarsystem.nasa.gov/bosf/images/04-01v2_Earth-Mars-Trans-Orb_800x420.jpg)  
 **Credit: NASA**
   
-## 1. Shipping a kodiak bear 300 million miles
+### 1. Shipping a kodiak bear 300 million miles
 
 While we have sent much larger spacecraft to Mars before (Curiosity Rover at 2,000 pounds), it is still a monumental effort to achieve this. At 800 pounds, InSight is about the size of a adult male kodiac bear, the grizzly's big brother.
 
@@ -17,11 +27,11 @@ So, want to ship a bear from D.C. to San Francisco 107,000 times?
   
 *UPS would only charge you [$20K per trip, totalling $2 billion.](https://i.imgur.com/YD8LgtZ.png)*
 
-## 2. Land at a precise location on a difficult terrain- Perfectly
+### 2. Land at a precise location on a difficult terrain- Perfectly
   
 The spacecraft must now slow down and stick a perfect landing, like an olympic gymnast. This is the most difficult part of landing on Mars because it is the most sensitive. One mistake can ruin the entire mission. This entails slowing down from 13,000 miles per hour all the way to zero. Engineers have lovingly dubbed this stage the:  
 
-## "7 Minutes of Terror": InSight's Nail-Biting Landing Process
+### "7 Minutes of Terror": InSight's Nail-Biting Landing Process
 
 ![InSight Probe landing](https://mars.nasa.gov/images/PIA14839-full2.jpg)  
 **Credit: NASA**  
@@ -47,7 +57,7 @@ In fact, NASA already has planned the next Mars mission, [Mars 2020](https://mar
 **[Mars facts](https://marsmobile.jpl.nasa.gov/allaboutmars/facts/#?c=inspace&s=distance) by JPL**
 
   
-### Sources:
+#### Sources:
 https://www.nasa.gov/mission_pages/mars-pathfinder  
 https://www.jpl.nasa.gov/edu/learn/video/mars-in-a-minute-how-do-you-land-on-mars/  
 https://marsmobile.jpl.nasa.gov/programmissions/missions/log/  

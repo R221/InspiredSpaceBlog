@@ -1,4 +1,14 @@
-# President Kennedy: "Let's land on the moon!" NASA: "Hold my beer"
+---
+layout:         post
+og:title:      "Apollo: An Ambitious Experiment With Fantastic Results"
+description:   "Started from scratch, the Apollo program advanced further than its creators wildest dreams."
+date:       2018-12-17 10:00
+author:     "Robert James"
+og:image:   "https://i.imgur.com/tyE5tUR.jpg"
+og:type:    "article"
+---
+
+## President Kennedy: "Let's land on the moon!" NASA: "Hold my beer"
 
 ![Apollo 11 Moon landing](https://i.imgur.com/tyE5tUR.jpg)
 
@@ -10,7 +20,7 @@ Even NBA star [Steph Curry](https://jezebel.com/steph-curry-is-not-a-moon-landin
   
 In this article we consider a broad overview of the beginning of the program and why it was such a big deal. Details regarding each mission will be elaborated on in depth in future articles.
   
-## The Beginning - Two Vital Missions
+### The Beginning - Two Vital Missions
 
 Neil Armstrong and Buzz Aldrin landed on the Moon on July 20, 1969 at the penultimate moment of Apollo 11; notably less than seven years after Kennedy's speech. This was a massive achievement! It was also the culmination of six years of work, it did not happen overnight.
 
@@ -22,7 +32,7 @@ Like earning a bachelor's degree, this was going to take some time. And money. *
   
 Especially to be first.  
   
-## Apollo 1: The first and most important
+### Apollo 1: The first and most important
 
 ![Apollo 1 crew](https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAwNy83NDEvb3JpZ2luYWwvR1BOLTIwMDAtMDAxMTU5LUVESVQuanBn)  
   
@@ -38,13 +48,13 @@ The point is, these were egregious errors that probably should not have happened
   
 And Apollo was a huge, ambitious experiment. 
   
-## Apollo 1 Aftermath
+### Apollo 1 Aftermath
 
 Manned missions were understandably banned for 21 months. Over a year and half [investigation](https://history.nasa.gov/Apollo204/inv.html), many changes were made including the implementation of self-extinguishing materials; an outward-opening hatch; a nitrous-oxygen mix of air for ground tests; and others. We learned our lesson and moved forward.
   
 While the day's losses are not to be understated, there was some good that came of it. Something powerful, in fact: fierce determination to get it right. Apollo 1 serves as a reminder even today that this stuff is real and it is dangerous. I'm not saying NASA "didn't care" at the beginning, they just didn't know what they were doing. How are you supposed to know what you don't know, you know? We would have to know for Apollo 4, however, as that was just around the corner.
   
-## Apollo 4: A Welcomed (and Much Needed) Success
+### Apollo 4: A Welcomed (and Much Needed) Success
 
 ![Apollo 4 launch](https://media.mnn.com/assets/images/2016/07/apollo-4-launch-crop.jpg.696x0_q80_crop-smart.jpg) 
 
@@ -60,7 +70,7 @@ The main goal of Apollo 4 involved:
   
 Fortunately, everything went smoothly and the mission was deemed a huge success for NASA. It provided a wealth of information on stage separation and vehicle systems, which were an excellent start to the future development of what would be 13 launches on the Saturn V platform.  
   
-## What do these missions mean for the future of Apollo?
+### What do these missions mean for the future of Apollo?
 
 So far, we have seen one disaster and one major success. Both were critical to the Apollo program as they provided ample opportunities for improvement and development. As we will see in the next article, despite these advances, mistakes were still made. But it's critical to note the complexity and scale of this mission; humankind was doing something that had *never been done before*. Not exactly an easy task.  
   
@@ -74,7 +84,7 @@ Holistically, the following missions provided a win not just for the US, but for
 [Astrobee: The Space Roomba](https://inspiredspace.blog/Astrobee-Roomba-for-Astronauts.html)
 
 
-### Sources:
+#### Sources:
 
 https://www.nasa.gov/mission_pages/apollo/missions/apollo1.html 
 https://starchild.gsfc.nasa.gov/docs/StarChild/whos_who_level2/gagarin.html

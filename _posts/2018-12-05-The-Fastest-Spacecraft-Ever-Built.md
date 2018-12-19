@@ -1,8 +1,9 @@
 ---
 layout:         post
-og:title:      "The Fastest Spacecraft Ever Built Detects Solar Wind"
-description:   "And it's heading right for the Sun."
+og:title:      "The Fastest Spacecraft Ever Built: The Parker Solar Probe "
+description:   "It's heading right for the Sun."
 author:     "Robert James"
+date:       2018-12-05 10:00
 og:image:   "https://static01.nyt.com/images/2018/08/11/science/11PARKER1/11PARKER1-jumbo.jpg?quality=90&auto=webp"
 og:type:    "article"
 ---
@@ -25,7 +26,7 @@ But just four years later, Mariner 2 proved Dr. Parker right by discovering the 
   
 In fact, it just launched on August 12, 2018. Talk about delayed gratification.
 
-## Some background: What the heck is solar wind and why is it so important?
+### What the heck is solar wind and why is it so important?
 
 [Solar wind](https://solarscience.msfc.nasa.gov/SolarWind.shtml) is the energy given off by the Sun's upper atmosphere, the *corona*, that permeates the entire solar system.
 
@@ -41,7 +42,7 @@ But perhaps the most interesting reason of all:
 
 What a time to be alive.  
   
-## Now that that's out of the way...
+### Now that that's out of the way...
 
 The PSP measures quite a few variables using a group of sensors known as *SWEAP*.  
   
