@@ -2,6 +2,7 @@
 layout:         post
 og:title:      "Astrobee: The Space Roomba"
 description:   "Can free-flying robots be effective in space? NASA thinks so."
+date:       2018-12-01 10:00
 author:     "Robert James"
 og:image:   "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/03/01/105039049-Astrobee.600x337.jpg?v=1519945384"
 og:type:    "article"
