@@ -45,7 +45,7 @@ This is truly the time to be alive for the coming of the Space Age-- we are livi
   
 I feel like I say this at the end of almost every article I write now, but I can't help it: We are a curious species, never satisfied with today's results. We push and push and push, there is no ending. We push because we must know. And we're not going to run out of mysteries any time soon.  
   
-Leave a comment below about your thoughts on Mars? What will we find? I sure hope it's not spiders...
+Leave a comment below about your thoughts on Mars? What will we find? I sure hope it's not spiders.
   
 **Related reads about Mars:**
 [InSight Probe: The Size of Kodiak Bear](https://inspiredspace.blog/Surprise-NASA-Can-Launch-a-Bear-Across-the-Universe.html)
