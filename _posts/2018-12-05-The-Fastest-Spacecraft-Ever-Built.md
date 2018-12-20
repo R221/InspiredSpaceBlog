@@ -66,8 +66,8 @@ We'll save the more in-depth explanation of the Solar Probe Cup, as well as the 
   
 Until next time!  
   
-**Related reads for your, er, reading pleasure:**
-[Voyager 2 (Almost) Escaping the Solar System](https://inspiredspace.blog/Voyager-2-Escape-is-Like-Moving-Out.html)
+**Related reads for your reading pleasure:**  
+[Voyager 2 (Almost) Escaping the Solar System](https://inspiredspace.blog/Voyager-2-Escape-is-Like-Moving-Out.html)  
 [Why Is Landing On Mars So Difficult? Some Insight](https://inspiredspace.blog/Why-is-Landing-On-Mars-So-Difficult-Some-InSight.html)  
 [Astrobee: The Space Roomba](https://inspiredspace.blog/Astrobee-Roomba-for-Astronauts.html)
 
