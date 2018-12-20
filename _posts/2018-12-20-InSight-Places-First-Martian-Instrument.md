@@ -4,7 +4,7 @@ og:title:      "NASA InSight Places Seismometer on Mars"
 description:   "This is the first science instrument to be placed on another planet."
 date:       2018-12-20 10:00
 author:     "Robert James"
-og:image:   ""
+og:image:   "https://www.nasa.gov/sites/default/files/thumbnails/image/pia22956-16.jpg"
 og:type:    "article"
 ---
 
