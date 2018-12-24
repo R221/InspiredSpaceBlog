@@ -30,9 +30,8 @@ So, NASA took a chance and went for it. It paid off.
 
 **Credit: NASA**
   
-So despite launching a manned mission way before it was really ready, Apollo 8's success made it much easier to eventually land on the moon a total of six times. But it's not only about the past-- in the mission to get to Mars, establishing a longterm endeavor on the Moon is critical.  
-  
+So despite launching a manned mission way before it was really ready, Apollo 8's success made it much easier to eventually land on the moon a total of six times. But it's not only about the past-- in the mission to get to Mars, establishing a longterm endeavor on the Moon is critical. 
 Of course, establishing a human presence on the Moon is a big deal, but it's only one piece in our ever-evolving mission to explore and understand this vast universe in which we live.  
   
 
-*Email Robert James at contact@inspiredspace.blog or follow him @robertspacej. Follow us @inspiredspace_. Original article on InspiredSpace.blog.*
+*Email Robert James at contact@inspiredspace.blog or follow him [@robertspacej](https://twitter.com/robertspacej). Follow us [@inspiredspace_](https://twitter.com/InspiredSpace_). Original article on [InspiredSpace.blog](https://inspiredspace.blog/).*
