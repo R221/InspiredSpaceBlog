@@ -126,7 +126,9 @@ a:hover {
 
 /* Structure
  * * * * * * * * * * * */
-
+.background-1 {
+    background-image: url(https://images.unsplash.com/photo-1506611302792-8e9fdb8c4edf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80)
+}
 .wrapper {
     min-height: 100%;
     margin-bottom: -$footer-size;
@@ -162,6 +164,7 @@ footer {
     max-width: $max-width;
     margin: auto;
     padding: $base-spacing;
+    color: white;
 }
 .post-preview {
     display: block;
