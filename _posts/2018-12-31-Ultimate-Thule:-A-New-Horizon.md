@@ -1,7 +1,7 @@
 ---
 layout:         post
-title:      "Ultima Thule: A New Horizon"
-description:   "Witness a new frontier 4 billion miles from home."
+title:      "Ultima Thule: the NASA New Horizon"
+description:   "NASA flies by Ultima Thule, an asteroid over 4 billion miles from home."
 date:       2018-12-31 16:00
 author:     "Robert James"
 og:image:   "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiD3OrewsvfAhXCUt8KHasRBpUQjRx6BAgBEAU&url=https%3A%2F%2Fwww.newsledge.com%2Fnew-horizons-ultima-thule-flyby-livestream%2F&psig=AOvVaw1cVAJ66TFHeSL17rQ3wxqp&ust=1546395617614493"
@@ -9,13 +9,12 @@ twitter:image: "https://mk0astronomynow9oh6g.kinstacdn.com/wp-content/uploads/20
 og:type:    "article"
 ---
 
-## Ultima Thule is literally going where no man has gone before for New Years
+## Ultima Thule is a huge milestone for NASA
 
 ![Ultima Thule](https://boygeniusreport.files.wordpress.com/2018/12/thule.png?w=782)
-
 **Credit: NASA**
 
-Well, man itself isn't *personally* going- but the spacecraft [New Horizons](https://www.nasa.gov/mission_pages/newhorizons/main/index.html) is. Did I mention it's 4 *BILLION* miles away? By the way, it's pronounced *Ul-teema tool-e*.
+Well, man itself isn't *personally* going- but the spacecraft [New Horizons](https//www.nasa.gov/mission_pages/newhorizons/main/index.html) is. Did I mention it's 4 *BILLION* miles away? By the way, it's pronounced *Ul-teema tool-e*.
   
 That's pretty far.  
   
@@ -30,7 +29,6 @@ This is a fairly short article at this point for two reasons: there is *so much*
 ### There are similar missions in the upcoming years
 
 ![Psyche space mission](https://psyche.asu.edu/wp-content/uploads/2018/12/Psyche_Inspired_18-19_MMontanez_Project1_PsycheWide_181203-1024x663.png)
-
 **Credit: ASU/NASA**
 
 New Horizons is not the only spacecraft observing small bodies. The [Lucy](https://www.nasa.gov/content/goddard/lucy-the-first-mission-to-jupiter-s-trojans) mission launches in 2021 to study Jupiter's Trojans, a large group of asteroids that share Jupiter's orbit around the Sun. Principal investigator Harold "Hal" Levison has stated that "Lucy will give us an opportunity to compare data from Ultima Thule and better understand the structure of bodies".  
@@ -40,7 +38,6 @@ Another cool mission: [Psyche](https://psyche.asu.edu/). Psyche is a small body 
 ### Conclusion: we're all in this together
 
 ![Spaceflight is a team sport](https://assets.teenvogue.com/photos/56a00438a86d43213b0dc4ca/master/pass/TCDHISC_EC006_H.JPG)
-
 **Credit: Teen Vogue** (I feel weird just typing that)
 
 Zac Efron does have at least one thing right: life is a team sport, and spaceflight is no different. "Spaceflight is a team sport", says New Horizons principal investigator Alan Stern. He couldn't be more right. Each team for each mission takes dozens of people and thousands of hours of work to succeed. Elkins-Taton mentioned that over 230 undergraduate students have participated so far in the Psyche mission just two years in.  
