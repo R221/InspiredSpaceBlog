@@ -6,6 +6,9 @@ date:       2018-12-31 16:00
 author:     "Robert James"
 og:image:   "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiD3OrewsvfAhXCUt8KHasRBpUQjRx6BAgBEAU&url=https%3A%2F%2Fwww.newsledge.com%2Fnew-horizons-ultima-thule-flyby-livestream%2F&psig=AOvVaw1cVAJ66TFHeSL17rQ3wxqp&ust=1546395617614493"
 og:type:    "article"
+twitter:card: summary_large_image
+twitter:site: @InspiredSpace_
+twitter:title: Ultimate Thule- A New Horizon
 ---
 
 ## Ultima Thule is literally going where no man has gone before for New Years
