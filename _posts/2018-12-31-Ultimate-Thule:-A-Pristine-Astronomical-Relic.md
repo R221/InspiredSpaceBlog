@@ -5,6 +5,7 @@ description:   "Witness a new frontier 4 billion miles from home."
 date:       2018-12-31 16:00
 author:     "Robert James"
 og:image:   "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiD3OrewsvfAhXCUt8KHasRBpUQjRx6BAgBEAU&url=https%3A%2F%2Fwww.newsledge.com%2Fnew-horizons-ultima-thule-flyby-livestream%2F&psig=AOvVaw1cVAJ66TFHeSL17rQ3wxqp&ust=1546395617614493"
+twitter:image: "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiD3OrewsvfAhXCUt8KHasRBpUQjRx6BAgBEAU&url=https%3A%2F%2Fwww.newsledge.com%2Fnew-horizons-ultima-thule-flyby-livestream%2F&psig=AOvVaw1cVAJ66TFHeSL17rQ3wxqp&ust=1546395617614493"
 og:type:    "article"
 ---
 
