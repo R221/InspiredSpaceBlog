@@ -57,7 +57,7 @@ tracking_id: UA-69243698-7 # GA Tracking ID
 
 # Social Stuff | open graph and twitter cards
 #og_image: "images/twitter_profile_pic.png" # This will show in facebook thumbnails
-twitter_image: "https://twitter.com/InspiredSpace_" # This will show in twitter cards
+#twitter_image: "https://twitter.com/InspiredSpace_" # This will show in twitter cards
 
 ####################################
 ####################################
