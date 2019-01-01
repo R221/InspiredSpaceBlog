@@ -1,6 +1,6 @@
 ---
 layout:         post
-og:title:      "Ultima Thule: A New Horizon"
+title:      "Ultima Thule: A New Horizon"
 description:   "Witness a new frontier 4 billion miles from home."
 date:       2018-12-31 16:00
 author:     "Robert James"
