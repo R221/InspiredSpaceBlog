@@ -103,11 +103,12 @@ a:hover {
 }
 .button {
     font-weight: lighter;
-    font-size: 13px;
-    border-radius: 20px;
-    background: #fff;
+    font-size: 1em;
+    border-radius: 1em;
+    background: green;
     padding: $base-spacing/4 $base-spacing;
-    color: $medium-gray-color;
+    color: white;
+    margin: 0.8em;
 }
 .button:hover {
     background: $accent-color;
@@ -127,7 +128,7 @@ a:hover {
 /* Structure
  * * * * * * * * * * * */
 .background-1 {
-    background-image: url(https://images.unsplash.com/photo-1506611302792-8e9fdb8c4edf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80)
+    background-image: url(https://wallpapersite.com/images/pages/pic_h/3468.jpg);
 }
 .wrapper {
     min-height: 100%;
@@ -142,7 +143,7 @@ footer, .wrapper:after {
 }
 footer {
     div {
-        padding: $base-spacing/2.5;
+        padding: 0;
         margin: 0px;
     }
     h2 {
@@ -163,7 +164,7 @@ footer {
 .container {
     max-width: $max-width;
     margin: auto;
-    padding: $base-spacing;
+    padding: 1em;
     color: white;
 }
 .post-preview {
@@ -188,6 +189,31 @@ footer {
         }
         margin: $base-spacing*1.1 0;
     }
+}
+.page-button {
+    float: left;
+    left: 0%;
+    position: relative;
+}
+.page-button-2 {
+    float: left;
+    position:relative;
+    left: -60%;
+    vertical-align: middle;
+}
+.footer-div {
+    float: left;
+    position: relative;
+    left: 36%;
+    padding-top: 4em;
+}
+.footer-div-2 {
+    float: left;
+    position: relative;
+    left: -50%;
+    vertical-align: middle;
+    padding-top: 5em;
+    padding-right: 11em;
 }
 .alignable {
     display: inline-block;
@@ -236,7 +262,7 @@ footer {
 * * * * * * * * * * * */
 .pagination {
     div {
-        width: 31%;
+        width: 33%;
         display: inline-block;
     }
     padding: inherit 2px;

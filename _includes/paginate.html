@@ -16,10 +16,10 @@
     </div>
     {% if paginator.next_page %}
         <div class="alignable pull-right" style="text-align: right">
-            <a class="button" href="{{ url | append: 'page/' | append: paginator.next_page }}" title="articles old">Next &rarr;</a>
+            <a class="button" href="{{ url | append: 'page/' | append: paginator.next_page }}" title="Next page">Next</a>
         </div>
     {% else %}
-        <div><a href=""></a></div>
+        <div>Page 1 of 1</div>
     {% endif %}
 </div>
 {% endif %}
