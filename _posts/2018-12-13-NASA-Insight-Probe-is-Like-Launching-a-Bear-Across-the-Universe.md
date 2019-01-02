@@ -1,37 +1,32 @@
 ---
 layout:         post
-og:title:      "NASA Launched a Kodiak Bear 300 Million Miles Away"
-description:   "The InSight Probe is the same size as one, a difficult task."
+og:title:      "The NASA InSight Probe is the Size of a Kodiak Bear"
+description:   "Landing on Mars is more difficult than you may think."
 date:       2018-12-13 10:00
 author:     "Robert James"
 og:image:   "https://solarsystem.nasa.gov/bosf/images/04-01v2_Earth-Mars-Trans-Orb_800x420.jpg"
 og:type:    "article"
 ---
 
-## Vaulting a bear over 300 million miles and landing as an Olympic gymnast is difficult
+![How to get to Mars from Earth](https://solarsystem.nasa.gov/bosf/images/04-01v2_Earth-Mars-Trans-Orb_800x420.jpg)
+**Credit: NASA**
 
 Since 1975, NASA has landed eight spacecrafts on Mars. The [InSight Lander](https://mars.nasa.gov/insight/), landing on November 26, 2018, is the most recent in the #JourneytoMars. Its success is a crucial win for the [Mars Exploration Program](https://mars.nasa.gov/).  
   
 How did NASA get the InSight Lander to Mars? They had to overcome two main obstacles: the distance and the landing.  
   
-![How to get to Mars from Earth](https://solarsystem.nasa.gov/bosf/images/04-01v2_Earth-Mars-Trans-Orb_800x420.jpg)  
-**Credit: NASA**
+## Shipping a thousand-pound bear 300 million miles is inherently difficult
+
+While NASA has sent much larger spacecraft to Mars in the past (Curiosity Rover at 2,000 pounds), it is still a monumental effort to achieve this. InSight's 800-pound mass is about the size of a adult male kodiac bear, the grizzly's big brother.  
   
-### 1. Shipping a kodiak bear 300 million miles
-
-While we have sent much larger spacecraft to Mars before (Curiosity Rover at 2,000 pounds), it is still a monumental effort to achieve this. At 800 pounds, InSight is about the size of a adult male kodiac bear, the grizzly's big brother.
-
-Earth and Mars meet just close enough on their respective orbits around the Sun that we can take advantage of using less rocket fuel. We have to aim for where Mars is going to be instead of where it is when we launch, like a quarterback throwing a football. This is called a [Hohmann Transfer Orbit](https://solarsystem.nasa.gov/basics/chapter4-1/). The Jet Propulsion Laboratory has a one-minute video on this, [check it out!](https://www.jpl.nasa.gov/edu/learn/video/mars-in-a-minute-how-do-you-get-to-mars/)
-
+Earth and Mars meet just close enough on their respective orbits around the Sun that we can take advantage of using less rocket fuel. We have to aim for where Mars is going to be instead of where it is when we launch, like a quarterback throwing a football. This is called a [Hohmann Transfer Orbit](https://solarsystem.nasa.gov/basics/chapter4-1/). The Jet Propulsion Laboratory (JPL) has a one-minute video on this, [check it out!](https://www.jpl.nasa.gov/edu/learn/video/mars-in-a-minute-how-do-you-get-to-mars/)  
+  
 So, want to ship a bear from D.C. to San Francisco 107,000 times?  
-  
 *UPS would only charge you [$20K per trip, totalling $2 billion.](https://i.imgur.com/YD8LgtZ.png)*
 
-### 2. Land at a precise location on a difficult terrain- Perfectly
+## Landing on Mars: 7 Minutes of Terror
   
-The spacecraft must now slow down and stick a perfect landing, like an olympic gymnast. This is the most difficult part of landing on Mars because it is the most sensitive. One mistake can ruin the entire mission. This entails slowing down from 13,000 miles per hour all the way to zero. Engineers have lovingly dubbed this stage the:  
-
-### "7 Minutes of Terror": InSight's Nail-Biting Landing Process
+Landing is arguably the most difficult part of the journey due to the sensitive nature of the procedure. The spacecraft must now slow down and stick an Olympic-quality landing; one mistake can ruin the entire mission, not just not winning a medal. This entails slowing down from 13,000 miles per hour all the way to zero. Engineers lovingly refer to this stage as the "7 Minutes of Terror".
 
 ![InSight Probe landing](https://mars.nasa.gov/images/PIA14839-full2.jpg)  
 **Credit: NASA**  
@@ -42,6 +37,8 @@ There are only seven minutes between entering Mars's atmosphere and landing (due
 
 Upon entry, a large parachute was deployed. Then 12 retro rockets fired for a gentle descent. Touchdown! You can watch NASA's archived video of the live landing [here](https://mars.nasa.gov/resources/22160/mission-control-live-nasa-insight-mars-landing/?site=insight).  
   
+## Future Mars missions rely on InSight
+
 InSight is no ordinary mission. Honestly, none of them really are. While the process of sending people and objects into space is largely not new, it is far from a perfectly formulated routine. But every time we do it, we get better at it and, crucially, we learn so much more about what we are researching. It is crucial that we keep exploring the universe around us-- to unveil the universe's secrets, but also to potentially find a new home for the human race.
   
 In fact, NASA already has planned the next Mars mission, [Mars 2020](https://mars.nasa.gov/mars2020/mission/overview/)!  
@@ -56,8 +53,8 @@ In fact, NASA already has planned the next Mars mission, [Mars 2020](https://mar
   
 **[Mars facts](https://marsmobile.jpl.nasa.gov/allaboutmars/facts/#?c=inspace&s=distance) by JPL**
 
-  
-#### Sources:
+<!-- ### Sources:
+
 https://www.nasa.gov/mission_pages/mars-pathfinder  
 https://www.jpl.nasa.gov/edu/learn/video/mars-in-a-minute-how-do-you-land-on-mars/  
 https://marsmobile.jpl.nasa.gov/programmissions/missions/log/  
@@ -69,3 +66,4 @@ https://www.jpl.nasa.gov/edu/learn/video/mars-in-a-minute-how-do-you-get-to-mars
 https://marsmobile.jpl.nasa.gov/allaboutmars/facts/#?c=inspace&s=distance  
 https://solarsystem.nasa.gov/basics/chapter4-1/
 
+-->

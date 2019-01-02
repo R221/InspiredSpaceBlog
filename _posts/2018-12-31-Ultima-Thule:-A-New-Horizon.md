@@ -26,7 +26,9 @@ In fact, "NASA is investing over five billion dollars in small body research in 
 
 Due to sheer distance, scientists had to wait six hours for the first data to come through. Over 20 months will be needed to receive all data (since the spacecraft is still moving away from us). Until then, we will see fragments of data- which is really cool as it is.  
   
-Well, that's kind of it for now. This is a fairly short article at this point for two reasons: there is *so much* information... and also so little. All we can say right now is that this research is critical for helping us understand the history of the universe. In order to understand where Earth comes from, you have to understand the universe as a whole. These small bodies have been around for thousands of years- they have seen everything and remain largely unchanged. That's why they're so important.  
+Well, that's kind of it for now. This is a fairly short article at this point for two reasons: there is *so much* information... and also so little. All we can say right now is that this research is critical for helping us understand the history of the universe.  
+  
+In order to understand where Earth comes from, you have to understand the universe as a whole. These small bodies have been around for thousands of years- they have seen everything and remain largely unchanged. That's why they're so important.  
   
 ### Similar NASA missions in the coming years
 
