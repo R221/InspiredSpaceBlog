@@ -21,6 +21,8 @@ One billion miles past Pluto in the Kupier Belt, Ultima Thule is a giant rock th
 In fact, "NASA is investing over five billion dollars in small body research in this decade alone" NASA Associate Administrator Thomas Zurbuchen stated on [NASA TV's](https://www.youtube.com/watch?v=21X5lGlDOfg) Ultima Thule livestream on Dec 31.  
   
 ## Importance of Ultima Thule
+![Ultima Thule first picture](http://static.digg.com/images/ace15857c07e43e48b497773de887a2c_0c3762769d7e483eaa26bbec5352c33c_1_www_marquee_standard.jpeg)  
+**Credit: NASA**
 
 Due to sheer distance, scientists had to wait six hours for the first data to come through. Over 20 months will be needed to receive all data (since the spacecraft is still moving away from us). Until then, we will see fragments of data- which is really cool as it is.  
   
