@@ -2,7 +2,7 @@
 layout:         post
 title:      "Ultima Thule: the NASA New Horizon"
 description:   "NASA flies by Ultima Thule, an asteroid over 4 billion miles from home."
-date:       2018-12-31 16:00
+date:       2019-01-01 16:00
 author:     "Robert James"
 og:image:   "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiD3OrewsvfAhXCUt8KHasRBpUQjRx6BAgBEAU&url=https%3A%2F%2Fwww.newsledge.com%2Fnew-horizons-ultima-thule-flyby-livestream%2F&psig=AOvVaw1cVAJ66TFHeSL17rQ3wxqp&ust=1546395617614493"
 twitter:image: "https://mk0astronomynow9oh6g.kinstacdn.com/wp-content/uploads/2018/12/122918_ultima4.jpg"
@@ -22,7 +22,7 @@ In fact, "NASA is investing over five billion dollars in small body research in 
   
 ## Importance of Ultima Thule
 ![Ultima Thule first picture](http://static.digg.com/images/ace15857c07e43e48b497773de887a2c_0c3762769d7e483eaa26bbec5352c33c_1_www_marquee_standard.jpeg)  
-**Credit: NASA**
+**Credit: NASA** *The first picture received from New Horizons*
 
 Due to sheer distance, scientists had to wait six hours for the first data to come through. Over 20 months will be needed to receive all data (since the spacecraft is still moving away from us). Until then, we will see fragments of data- which is really cool as it is.  
   
@@ -41,7 +41,7 @@ Another cool mission is [Psyche](https://psyche.asu.edu/). Psyche is a small bod
   
 The mission, led by Lindy Elkins-Taton, is undoubtedly another fantastic opportunity to research the history of our solar system.
   
-### Conclusion: NASA, You, and Me: We're all in this together
+### NASA, You, and Me: All in this together
 
 ![Spaceflight is a team sport](https://assets.teenvogue.com/photos/56a00438a86d43213b0dc4ca/master/pass/TCDHISC_EC006_H.JPG)
 **Credit: Teen Vogue** (I feel weird just typing that)
