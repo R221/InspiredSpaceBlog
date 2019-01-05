@@ -8,22 +8,22 @@ baseurl: "/"
 
 # This will show up at the top of index page
 site_heading: >
-    inspired<span class = "faded">space.blog</span>
+    Inspired Space
 
-email: astrophysicsnews@gmail.com
+email: contact@inspirespace.blog
 author: Robert James
 # This description will show up in google search results
 # (for index page) etc.
-description: Fresh, easy perspectives on space topics.
+description: Providing fresh, easy perspectives on space topics and news that anyone can understand.
 
 # This will what will show against &copy; in the footer
 copyright: Robert James
 # Toggle your short bio, which will displayed on your index page
 # Just toggle it and run jekyll again to see
-intro: false # Tip: Remove the span from site_heading if intro is set to true
+intro: true # Tip: Remove the span from site_heading if intro is set to true
 # This will be displayed in your intro
 short_bio: >
-   easy <span>astrophysics and space</span> summaries 
+   easy space perspectives <span>for everyone</span>
 # <a class="underline different-highlight" href="http://ankitsultana.com/accent/documentation.html">
 #    Browse our blogs
 # </a>
