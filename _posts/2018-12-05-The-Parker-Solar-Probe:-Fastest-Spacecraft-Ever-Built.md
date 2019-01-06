@@ -8,7 +8,7 @@ og:image:   "https://static01.nyt.com/images/2018/08/11/science/11PARKER1/11PARK
 og:type:    "article"
 ---
 
-![Dr. Eugene Parker](https://static01.nyt.com/images/2018/08/11/science/11PARKER1/11PARKER1-jumbo.jpg?quality=90&auto=webp)
+![Dr. Eugene Parker](https://static01.nyt.com/images/2018/08/11/science/11PARKER1/11PARKER1-jumbo.jpg?quality=90&auto=webp)  
 **Credit: NASA/JPL-Caltech**
 
 *This is part one in a multi-part series. Stay tuned for more in-depth information.*  

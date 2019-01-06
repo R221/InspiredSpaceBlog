@@ -8,7 +8,7 @@ og:image:   "https://i.imgur.com/tyE5tUR.jpg"
 og:type:    "article"
 ---
 
-![Apollo 11](https://pmcvariety.files.wordpress.com/2018/07/apollo-11.jpg?w=1000&h=563&crop=1)
+![Apollo 11](https://pmcvariety.files.wordpress.com/2018/07/apollo-11.jpg?w=1000&h=563&crop=1)  
 **Credit: NASA**
 
 "We choose to go to the Moon." President John F. Kennedy's famous words on September 12, 1962 would trigger the most massive experiment in the history of mankind: land humans on the Moon. Now you may be thinking, "Isn't Mars a bigger deal?" Yes and no. While getting to Mars is like [launching a massive bear 300 million miles](https://inspiredspace.blog/Why-is-Landing-On-Mars-So-Difficult-Some-InSight.html) and is undoubtedly impressive, the systems and structures used largely build on the lessons learned from the Apollo missions.  

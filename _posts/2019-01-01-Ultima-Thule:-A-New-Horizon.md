@@ -9,7 +9,7 @@ twitter:image: "https://mk0astronomynow9oh6g.kinstacdn.com/wp-content/uploads/20
 og:type:    "article"
 ---
 
-![Ultima Thule](https://boygeniusreport.files.wordpress.com/2018/12/thule.png?w=782)
+![Ultima Thule](https://boygeniusreport.files.wordpress.com/2018/12/thule.png?w=782)  
 **Credit: NASA**
 
 Spacecraft [New Horizons](https//www.nasa.gov/mission_pages/newhorizons/main/index.html) flew by Ultima Thule on January 1,2019 at 12:33AM Eastern Time. Yeah, New Years Day. Quite fortuitous timing considering the distance covered: over four billion miles.  
@@ -32,7 +32,7 @@ In order to understand where Earth comes from, you have to understand the univer
   
 ### Similar NASA missions in the coming years
 
-![Psyche space mission](https://psyche.asu.edu/wp-content/uploads/2018/12/Psyche_Inspired_18-19_MMontanez_Project1_PsycheWide_181203-1024x663.png)
+![Psyche space mission](https://psyche.asu.edu/wp-content/uploads/2018/12/Psyche_Inspired_18-19_MMontanez_Project1_PsycheWide_181203-1024x663.png)  
 **Credit: ASU/NASA**
 
 New Horizons is the first major spacecraft to observe small bodies. The [Lucy](https://www.nasa.gov/content/goddard/lucy-the-first-mission-to-jupiter-s-trojans) mission launches in 2021 to study Jupiter's Trojans, a large group of asteroids that share Jupiter's orbit around the Sun. Principal investigator Harold "Hal" Levison has stated that "Lucy will give us an opportunity to compare data from Ultima Thule and better understand the structure of bodies".  

@@ -8,7 +8,7 @@ og:image:   "https://solarsystem.nasa.gov/bosf/images/04-01v2_Earth-Mars-Trans-O
 og:type:    "article"
 ---
 
-![How to get to Mars from Earth](https://solarsystem.nasa.gov/bosf/images/04-01v2_Earth-Mars-Trans-Orb_800x420.jpg)
+![How to get to Mars from Earth](https://solarsystem.nasa.gov/bosf/images/04-01v2_Earth-Mars-Trans-Orb_800x420.jpg)  
 **Credit: NASA**
 
 Since 1975, NASA has landed eight spacecrafts on Mars. The [InSight Lander](https://mars.nasa.gov/insight/), landing on November 26, 2018, is the most recent in the #JourneytoMars. Its success is a crucial win for the [Mars Exploration Program](https://mars.nasa.gov/).  
