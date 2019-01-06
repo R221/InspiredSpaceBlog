@@ -54,7 +54,7 @@ favicon: true
 favicon_location: "images/favicon_1_8HY_icon.ico"
 
 profile_picture: images/profilepic.png
-paginate: 5
+paginate: 4
 paginate_path: "/page/:num"
 tracking_id: UA-69243698-7 # GA Tracking ID
 
