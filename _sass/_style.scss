@@ -125,7 +125,7 @@ a:hover {
 /* Structure
  * * * * * * * * * * * */
 .background-1 {
-    background-image: url(https://images.unsplash.com/photo-1543472293-c4499a395bed?ixlib=rb-1.2.1&auto=format&fit=crop&w=2500&q=80);
+    background-image: url(https://apod.nasa.gov/apod/image/1510/M16HubbleV4-X3walker.jpg);
 }
 .wrapper {
     min-height: 100%;
@@ -275,6 +275,9 @@ footer {
         }
         margin-bottom: 10px;
     }
+}
+.page-number {
+    text-align: center;
 }
 
 /* Post
