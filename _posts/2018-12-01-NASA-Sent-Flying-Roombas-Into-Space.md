@@ -46,12 +46,15 @@ OK, that may seem a tad melodramatic, but hope is in fact what keeps humans goin
   
 And if I know one thing about humans, it is that we cannot stand still. We must advance, we must evolve. We must explore.  
   
-### Sources
+**Watch:** Astrobee summary from the [Inspired Space YouTube channel](https://www.youtube.com/channel/UCNhdb4Je3IoMsVZP6mEYfEA)
+[![Astrobee video Inspired Space](http://img.youtube.com/vi/hSiWRpz0jRY/0.jpg)]((https://www.youtube.com/watch?v=hSiWRpz0jRY))
+  
+<!-- ### Sources
 
 https://www.nasa.gov/astrobee  
 https://www.nasa.gov/mission_pages/station/research/experiments/2154.html  
 https://gameon.nasa.gov/2018/10/30/nasa-looking-to-tiny-technology-for-big-payoffs/  
-https://www.nasa.gov/sites/default/files/atoms/files/bualat_spaceops_2018_paper.pdf  
+https://www.nasa.gov/sites/default/files/atoms/files/bualat_spaceops_2018_paper.pdf  -->
   
 Interested in more NASA robotics?  
 Check out my previous post on the [Palmer Space Probe](https://r221.github.io/accent/Parker-Solar-Probe.html).
